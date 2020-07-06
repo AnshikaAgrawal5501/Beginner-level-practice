@@ -1,2 +1,2 @@
 # Beginner-level-practice
-Beginner level programming.
+Beginner level programming in Java.
